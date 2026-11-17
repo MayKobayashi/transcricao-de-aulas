@@ -1,0 +1,1 @@
+Spark, Hadoop, DataFrame, join, cluster, Databricks, Delta Lake, particionamento, ETL, pipeline de dados, escalabilidade, PySpark, data lake, data warehouse, processamento distribuído, shuffle

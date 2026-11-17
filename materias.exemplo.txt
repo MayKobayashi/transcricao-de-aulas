@@ -1,0 +1,6 @@
+# Uma matéria por linha. Linhas com # são ignoradas.
+# Copie este arquivo para materias.txt e troque pelas suas matérias.
+Estatística
+Banco de Dados
+Machine Learning
+Visualização de Dados
